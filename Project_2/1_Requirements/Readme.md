@@ -14,6 +14,16 @@ HLR 3  |The system shall display the Information about battery.
 HLR 4  |The system shall display the door status of the car.
 
 ## Low Level Requirements
+ID     | Description
+-------| -----------------------------------------
+LLR 1  |By pressing blue switch once the device shall display the status of windows.
+LLR 1.1| All the LED's get turned ON at the same time(When pressed once).
+LLR 2  |By pressing blue switch twice the device shall display the status of alarm.
+LLR 2.2|All the LED's get turned OFF at the same time (When pressed twice).
+LLR 3  |By pressing blue switch thrice the device shall display the battery information.
+LLR 3.1| All the LED's get turned ON in clockwise direction (When pressed thrice).
+LLR 4  |By pressing blue switch four times the device shall display the door status. 
+LLR 4.1|All the LED's get turned ON in anti-clockwise direction(When pressed four times)
 
 ## SWOT Analysis
 
