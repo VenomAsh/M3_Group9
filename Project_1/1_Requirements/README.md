@@ -34,5 +34,7 @@ An RKE system consists of an RF transmitter in the keyfob (or key) that sends a 
 
 ## 5W's and 1H:
 
+<img width="544" alt="5W1H_RKE" src="https://user-images.githubusercontent.com/98833151/157872039-a9fc634a-62be-46cb-bcf7-446575b8fe62.png">
+
 
 
