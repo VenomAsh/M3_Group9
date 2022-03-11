@@ -6,6 +6,12 @@
 ## Identifying features
 
 ## High Level Requirements
+ID     | Description
+-------| -----------------------------------------
+HLR 1  |The system shall display the window status of the car.
+HLR 2  |The system shall display the status of alarm.
+HLR 3  |The system shall display the Information about battery.
+HLR 4  |The system shall display the door status of the car.
 
 ## Low Level Requirements
 
