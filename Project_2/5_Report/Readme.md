@@ -57,3 +57,18 @@ LLR 4.1|All the LED's get turned ON in anti-clockwise direction(When pressed fou
 ![](/Project_2/6_ImagesAndVideos/Structural%20Low%20Level%20Diagram%202.png)
 
 ## TestPlan and Output
+
+
+- For every feature, define a test case
+  - 👉 How to run that feature
+  - 👉 Define expected behaviour
+  - 👉 Capture the actual result
+
+
+Test ID   |   Description                        |  Input Values                  |  Expected Output                      |  Actual Output                        | Status |
+----------|--------------------------------------|--------------------------------|-------------------------------------- |---------------------------------------|--------|
+TC_01     | Display the window status of the car | Blue Switch Pressed Once       | All LED on at the same time           | All LED ON at the same time           | Pass   |
+TC_02     | Display the alarm status of the car  | Blue Switch Pressed Twice      | All LED OFF at the same time          | All LED OFF at the same time          | Pass   |
+TC_03     | Display the Info about battery       | Blue Switch pressed Thrice     | All LED ON in clockwise direction     | All LED ON in clockwise direction     | Pass   |
+TC_04     | Display the door status of the car   | Blue Switch pressed four times | All LED ON in Anticlockwise direction | All LED ON in anticlockwise direction | Pass   |
+
