@@ -37,3 +37,21 @@ LLR 4.1|All the LED's get turned ON in anti-clockwise direction(When pressed fou
 ## 4W's and 1H
 <img width="544" alt="5W1H_RKE" src="https://user-images.githubusercontent.com/98833151/157872039-a9fc634a-62be-46cb-bcf7-446575b8fe62.png">
 
+
+# Architecture
+
+## Behavioural High Level Diagram
+
+![](/Project_2/6_ImagesAndVideos/Behavioural%20High%20Level%20Diagram%202.png)
+
+## Behavioural Low Level Diagram
+
+![](/Project_2/6_ImagesAndVideos/Behavioural%20Low%20Level%20Diagram%202.png)
+
+## Structural High Level Diagram
+
+![](/Project_2/6_ImagesAndVideos/Structural%20High%20Level%20Diagram%202.png)
+
+## Structural Low Level Diagram
+
+![](/Project_2/6_ImagesAndVideos/Structural%20Low%20Level%20Diagram%202.png)
