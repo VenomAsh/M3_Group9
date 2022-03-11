@@ -34,4 +34,5 @@ LLR 4.1|All the LED's get turned ON in anti-clockwise direction(When pressed fou
 <img width="577" alt="SWOT_RKE" src="https://user-images.githubusercontent.com/98833151/157857408-d864f812-0e8e-490e-993c-94b5b7bf699f.png">
 
 ## 4W's and 1H
+<img width="544" alt="5W1H_RKE" src="https://user-images.githubusercontent.com/98833151/157872039-a9fc634a-62be-46cb-bcf7-446575b8fe62.png">
 
