@@ -31,6 +31,7 @@ LLR 4  |By pressing blue switch four times the device shall display the door sta
 LLR 4.1|All the LED's get turned ON in anti-clockwise direction(When pressed four times)
 
 ## SWOT Analysis
+<img width="577" alt="SWOT_RKE" src="https://user-images.githubusercontent.com/98833151/157857408-d864f812-0e8e-490e-993c-94b5b7bf699f.png">
 
 ## 4W's and 1H
 
