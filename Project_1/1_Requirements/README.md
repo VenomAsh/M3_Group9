@@ -30,7 +30,7 @@ An RKE system consists of an RF transmitter in the keyfob (or key) that sends a 
 
 ## SWOT Analysis:
 
-
+<img width="577" alt="SWOT_RKE" src="https://user-images.githubusercontent.com/98833151/157857408-d864f812-0e8e-490e-993c-94b5b7bf699f.png">
 
 ## 5W's and 1H:
 
